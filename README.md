@@ -70,7 +70,7 @@ This repository contains the source code and documentation for my 6th semester *
 **Syed Hassan Raza**  
 BS Computer Science – PIEAS University  
 Semester 6 Project – Application Development  
-[LinkedIn Profile](#) | [GitHub](#)
+[LinkedIn Profile](www.linkedin.com/in/syed-hassan-raza-ba842b277) 
 
 ---
 
